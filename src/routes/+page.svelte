@@ -632,6 +632,14 @@
         </div>
         <LogoScatterChart data={logoDat} />
     </div>
+
+    <div class="article-text">
+        <p>In the line plot, we observe that the 2025-2026 season had the highest amount of OPM at over 500 instances, more than double that of the 2021-2022 and 2022-2023 seasons. This suggests that a new strategy of tanking teams is to play big minutes to previously unknown players to increase their chances of losing. Yes, these players are often young and so part of the strategy is to give them chances to develop, but it is almost certainly not the most competitive group of players that a team could field. Looking at the second plot, the Wizards have been a big abuser of this strategy in the last few years. And even further back, in 2021-2022 the Thunder utilized this strategy far more than any team that year. They are the ones generally credited with the development of this strategy, using 2-way and 10 day contract players proficiently. </p>
+    </div>
+
+    <div class="article-text">
+        <p>The NBA has a tanking problem, and hopefully the new rule changes in the draft lottery will start to dissuade teams from tanking. As I’ve shown, the gameplay of the NBA last year was significantly impacted by tanking, and the experience of fans was worse because of it. There were more blowouts, less competitive games, and more random players. Will next year be any different? Adam Silver and the league office certainly hope so. </p>
+    </div>
 </main>
 
 <style>
