@@ -1,6 +1,7 @@
 <script>
     import * as d3 from 'd3';
     import { onMount } from 'svelte';
+    import { base } from '$app/paths';
     import SeasonLineChart from '$lib/SeasonLineChart.svelte';
     import MinutesOutliersChart from '$lib/MinutesOutliersChart.svelte';
     import LogoScatterChart from '$lib/LogoScatterChart.svelte';
@@ -58,13 +59,13 @@
 
     onMount(async () => {
         [dat, pvoDat, minDat, logoDat] = await Promise.all([
-            d3.csv('/data/calendar_alltime.csv', d3.autoType),
-            d3.csv('/data/playoff_vs_non.csv', d3.autoType),
-            d3.csv('/data/minutes_date.csv', d => ({
+            d3.csv(`${base}/data/calendar_alltime.csv`, d3.autoType),
+            d3.csv(`${base}/data/playoff_vs_non.csv`, d3.autoType),
+            d3.csv(`${base}/data/minutes_date.csv`, d => ({
                 game_date: new Date(d.game_date + 'T12:00:00'),
                 total_min_outliers: +d.total_min_outliers,
             })),
-            d3.csv('/data/minutes_logo.csv', d => ({
+            d3.csv(`${base}/data/minutes_logo.csv`, d => ({
                 team_display_name: d.team_display_name,
                 season: +d.season,
                 total_min_outliers: +d.total_min_outliers,

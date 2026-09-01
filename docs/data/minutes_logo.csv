@@ -1,0 +1,181 @@
+team_display_name,season,total_min_outliers,playoff_team,wins,rank,logo,logo2
+Houston Rockets,2021,26,FALSE,17,30,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+Detroit Pistons,2021,7,FALSE,20,29,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+Orlando Magic,2021,14,FALSE,21,28,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Cleveland Cavaliers,2021,12,FALSE,22,27,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Oklahoma City Thunder,2021,23,FALSE,22,26,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
+Minnesota Timberwolves,2021,0,FALSE,23,25,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+Toronto Raptors,2021,10,FALSE,27,24,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+Chicago Bulls,2021,0,FALSE,31,23,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+New Orleans Pelicans,2021,4,FALSE,31,22,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+Sacramento Kings,2021,30,FALSE,31,21,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Charlotte Hornets,2021,1,TRUE,33,20,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+San Antonio Spurs,2021,7,TRUE,33,19,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Indiana Pacers,2021,23,TRUE,34,18,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+Washington Wizards,2021,8,TRUE,34,17,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+Boston Celtics,2021,16,TRUE,36,16,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Memphis Grizzlies,2021,9,TRUE,38,15,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Golden State Warriors,2021,0,TRUE,39,14,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+Miami Heat,2021,3,TRUE,40,13,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Atlanta Hawks,2021,7,TRUE,41,12,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+New York Knicks,2021,0,TRUE,41,11,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+Dallas Mavericks,2021,2,TRUE,42,10,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+Los Angeles Lakers,2021,1,TRUE,42,9,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+Portland Trail Blazers,2021,3,TRUE,42,8,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+Milwaukee Bucks,2021,7,TRUE,46,7,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+Denver Nuggets,2021,7,TRUE,47,6,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+LA Clippers,2021,7,TRUE,47,5,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Brooklyn Nets,2021,9,TRUE,48,4,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Philadelphia 76ers,2021,4,TRUE,49,3,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Phoenix Suns,2021,1,TRUE,51,2,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+Utah Jazz,2021,7,TRUE,52,1,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Houston Rockets,2022,7,FALSE,20,30,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+Orlando Magic,2022,21,FALSE,22,29,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Detroit Pistons,2022,17,FALSE,23,28,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+Oklahoma City Thunder,2022,58,FALSE,24,27,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
+Indiana Pacers,2022,0,FALSE,25,26,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+Portland Trail Blazers,2022,36,FALSE,27,25,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+Sacramento Kings,2022,3,FALSE,30,24,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Los Angeles Lakers,2022,7,FALSE,33,23,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+San Antonio Spurs,2022,2,TRUE,34,22,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Washington Wizards,2022,6,FALSE,35,21,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+New Orleans Pelicans,2022,0,TRUE,36,20,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+New York Knicks,2022,17,FALSE,37,19,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+LA Clippers,2022,1,TRUE,42,18,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Atlanta Hawks,2022,6,TRUE,43,17,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+Charlotte Hornets,2022,7,TRUE,43,16,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+Brooklyn Nets,2022,13,TRUE,44,15,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Cleveland Cavaliers,2022,10,TRUE,44,14,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Chicago Bulls,2022,1,TRUE,46,13,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+Minnesota Timberwolves,2022,5,TRUE,46,12,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+Denver Nuggets,2022,3,TRUE,48,11,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+Toronto Raptors,2022,2,TRUE,48,10,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+Utah Jazz,2022,15,TRUE,49,9,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Boston Celtics,2022,1,TRUE,51,8,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Milwaukee Bucks,2022,4,TRUE,51,7,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+Philadelphia 76ers,2022,1,TRUE,51,6,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Dallas Mavericks,2022,3,TRUE,52,5,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+Golden State Warriors,2022,0,TRUE,53,4,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+Miami Heat,2022,3,TRUE,53,3,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Memphis Grizzlies,2022,4,TRUE,56,2,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Phoenix Suns,2022,3,TRUE,64,1,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+Detroit Pistons,2023,15,FALSE,17,30,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+Houston Rockets,2023,0,FALSE,22,29,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+San Antonio Spurs,2023,24,FALSE,22,28,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Charlotte Hornets,2023,10,FALSE,27,27,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+Portland Trail Blazers,2023,25,FALSE,33,26,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+Orlando Magic,2023,5,FALSE,34,25,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Indiana Pacers,2023,6,FALSE,35,24,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+Washington Wizards,2023,20,FALSE,35,23,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+Utah Jazz,2023,37,FALSE,37,22,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Dallas Mavericks,2023,7,FALSE,38,21,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+Chicago Bulls,2023,2,TRUE,40,20,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+Oklahoma City Thunder,2023,2,TRUE,40,19,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
+Atlanta Hawks,2023,1,TRUE,41,18,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+Toronto Raptors,2023,4,TRUE,41,17,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+Minnesota Timberwolves,2023,4,TRUE,42,16,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+New Orleans Pelicans,2023,2,TRUE,42,15,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+Los Angeles Lakers,2023,4,TRUE,43,14,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+Golden State Warriors,2023,1,TRUE,44,13,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+LA Clippers,2023,1,TRUE,44,12,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Miami Heat,2023,7,TRUE,44,11,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Brooklyn Nets,2023,4,TRUE,45,10,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Phoenix Suns,2023,0,TRUE,45,9,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+New York Knicks,2023,0,TRUE,47,8,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+Sacramento Kings,2023,6,TRUE,48,7,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Cleveland Cavaliers,2023,6,TRUE,51,6,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Memphis Grizzlies,2023,6,TRUE,51,5,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Denver Nuggets,2023,3,TRUE,53,4,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+Philadelphia 76ers,2023,3,TRUE,54,3,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Boston Celtics,2023,1,TRUE,57,2,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Milwaukee Bucks,2023,14,TRUE,58,1,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+Detroit Pistons,2024,19,FALSE,14,30,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+Washington Wizards,2024,45,FALSE,15,29,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+Charlotte Hornets,2024,58,FALSE,21,28,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+Portland Trail Blazers,2024,45,FALSE,21,27,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+San Antonio Spurs,2024,18,FALSE,22,26,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Toronto Raptors,2024,20,FALSE,25,25,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+Memphis Grizzlies,2024,55,FALSE,27,24,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Utah Jazz,2024,41,FALSE,31,23,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Brooklyn Nets,2024,9,FALSE,32,22,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Atlanta Hawks,2024,39,TRUE,36,21,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+Chicago Bulls,2024,15,TRUE,39,20,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+Houston Rockets,2024,4,FALSE,41,19,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+Golden State Warriors,2024,2,TRUE,46,18,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+Miami Heat,2024,5,TRUE,46,17,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Sacramento Kings,2024,1,TRUE,46,16,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Indiana Pacers,2024,5,TRUE,47,15,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+Los Angeles Lakers,2024,0,TRUE,47,14,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+Orlando Magic,2024,0,TRUE,47,13,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Philadelphia 76ers,2024,8,TRUE,47,12,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Cleveland Cavaliers,2024,3,TRUE,48,11,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Milwaukee Bucks,2024,0,TRUE,49,10,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+New Orleans Pelicans,2024,0,TRUE,49,9,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+Phoenix Suns,2024,6,TRUE,49,8,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+Dallas Mavericks,2024,7,TRUE,50,7,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+New York Knicks,2024,1,TRUE,50,6,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+LA Clippers,2024,17,TRUE,51,5,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Minnesota Timberwolves,2024,2,TRUE,56,4,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+Denver Nuggets,2024,2,TRUE,57,3,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+Oklahoma City Thunder,2024,3,TRUE,57,2,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
+Boston Celtics,2024,4,TRUE,64,1,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Utah Jazz,2025,7,FALSE,17,30,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Washington Wizards,2025,70,FALSE,18,29,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+Charlotte Hornets,2025,22,FALSE,19,28,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+New Orleans Pelicans,2025,28,FALSE,21,27,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+Philadelphia 76ers,2025,40,FALSE,24,26,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Brooklyn Nets,2025,31,FALSE,26,25,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Toronto Raptors,2025,57,FALSE,30,24,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+San Antonio Spurs,2025,13,FALSE,34,23,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Phoenix Suns,2025,21,FALSE,36,22,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+Portland Trail Blazers,2025,17,FALSE,36,21,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+Miami Heat,2025,6,TRUE,37,20,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Chicago Bulls,2025,6,TRUE,39,19,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+Dallas Mavericks,2025,12,TRUE,39,18,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+Atlanta Hawks,2025,12,TRUE,40,17,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+Sacramento Kings,2025,3,TRUE,40,16,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Orlando Magic,2025,12,TRUE,41,15,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Detroit Pistons,2025,7,TRUE,44,14,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+Golden State Warriors,2025,0,TRUE,48,13,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+Memphis Grizzlies,2025,3,TRUE,48,12,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Milwaukee Bucks,2025,6,TRUE,48,11,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+Minnesota Timberwolves,2025,9,TRUE,49,10,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+Denver Nuggets,2025,28,TRUE,50,9,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+Indiana Pacers,2025,9,TRUE,50,8,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+LA Clippers,2025,4,TRUE,50,7,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Los Angeles Lakers,2025,17,TRUE,50,6,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+New York Knicks,2025,7,TRUE,51,5,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+Houston Rockets,2025,13,TRUE,52,4,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+Boston Celtics,2025,9,TRUE,61,3,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Cleveland Cavaliers,2025,8,TRUE,64,2,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Oklahoma City Thunder,2025,6,TRUE,68,1,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
+Washington Wizards,2026,70,FALSE,17,30,https://a.espncdn.com/i/teamlogos/nba/500/wsh.png,https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_black.png
+Indiana Pacers,2026,9,FALSE,19,29,https://a.espncdn.com/i/teamlogos/nba/500/ind.png,https://a.espncdn.com/guid/547fc042-3e02-4795-9637-9ab84322b625/logos/primary_logo_black.png
+Brooklyn Nets,2026,38,FALSE,20,28,https://a.espncdn.com/i/teamlogos/nba/500/bkn.png,https://a.espncdn.com/guid/926db769-d35e-e282-9d7e-a05001d774ab/logos/primary_logo_black.png
+Sacramento Kings,2026,64,FALSE,22,27,https://a.espncdn.com/i/teamlogos/nba/500/sac.png,https://a.espncdn.com/guid/e266c4ea-9af3-1bd8-06fb-fd608fd30e26/logos/primary_logo_black.png
+Utah Jazz,2026,55,FALSE,22,26,https://a.espncdn.com/i/teamlogos/nba/500/utah.png,https://a.espncdn.com/guid/77cea2fb-1388-b7c8-d171-2e72b3aecbfb/logos/primary_logo_black.png
+Memphis Grizzlies,2026,69,FALSE,25,25,https://a.espncdn.com/i/teamlogos/nba/500/mem.png,https://a.espncdn.com/guid/af5d4942-aeb5-2d07-2a8a-f70b54617e51/logos/primary_logo_black.png
+Dallas Mavericks,2026,7,FALSE,26,24,https://a.espncdn.com/i/teamlogos/nba/500/dal.png,https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_black.png
+New Orleans Pelicans,2026,26,FALSE,26,23,https://a.espncdn.com/i/teamlogos/nba/500/no.png,https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png
+Chicago Bulls,2026,25,FALSE,31,22,https://a.espncdn.com/i/teamlogos/nba/500/chi.png,https://a.espncdn.com/guid/e588ccf1-ba03-ea43-c34c-9a9c8d1895ca/logos/primary_logo_black.png
+Milwaukee Bucks,2026,13,FALSE,32,21,https://a.espncdn.com/i/teamlogos/nba/500/mil.png,https://a.espncdn.com/guid/f59bbabc-eedb-9ad2-c5dd-9bcd9f450a2f/logos/primary_logo_black.png
+Golden State Warriors,2026,13,TRUE,37,20,https://a.espncdn.com/i/teamlogos/nba/500/gs.png,https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_black.png
+LA Clippers,2026,0,TRUE,42,19,https://a.espncdn.com/i/teamlogos/nba/500/lac.png,https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_black.png
+Portland Trail Blazers,2026,29,TRUE,42,18,https://a.espncdn.com/i/teamlogos/nba/500/por.png,https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_black.png
+Miami Heat,2026,3,TRUE,43,17,https://a.espncdn.com/i/teamlogos/nba/500/mia.png,https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png
+Charlotte Hornets,2026,2,TRUE,44,16,https://a.espncdn.com/i/teamlogos/nba/500/cha.png,https://a.espncdn.com/guid/377633c2-0dd1-91a1-83c0-9ed2d0c00ea1/logos/primary_logo_black.png
+Orlando Magic,2026,8,TRUE,45,15,https://a.espncdn.com/i/teamlogos/nba/500/orl.png,https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png
+Philadelphia 76ers,2026,10,TRUE,45,14,https://a.espncdn.com/i/teamlogos/nba/500/phi.png,https://a.espncdn.com/guid/ca1685ed-b799-53e4-7924-e58ea6eb8f3a/logos/primary_logo_black.png
+Phoenix Suns,2026,17,TRUE,45,13,https://a.espncdn.com/i/teamlogos/nba/500/phx.png,https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png
+Atlanta Hawks,2026,1,TRUE,46,12,https://a.espncdn.com/i/teamlogos/nba/500/atl.png,https://a.espncdn.com/guid/15096a54-f015-c987-5ec8-55afedf6272f/logos/primary_logo_black.png
+Toronto Raptors,2026,1,TRUE,46,11,https://a.espncdn.com/i/teamlogos/nba/500/tor.png,https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_black.png
+Minnesota Timberwolves,2026,8,TRUE,49,10,https://a.espncdn.com/i/teamlogos/nba/500/min.png,https://a.espncdn.com/guid/13f727cb-254d-b484-a337-93fcc0047add/logos/primary_logo_black.png
+Cleveland Cavaliers,2026,13,TRUE,52,9,https://a.espncdn.com/i/teamlogos/nba/500/cle.png,https://a.espncdn.com/guid/ec79ad1f-e6d2-7762-a2db-7fe97d35126b/logos/primary_logo_black.png
+Houston Rockets,2026,4,TRUE,52,8,https://a.espncdn.com/i/teamlogos/nba/500/hou.png,https://a.espncdn.com/guid/78113ad4-1ac7-0c04-dada-388a6ff4e15e/logos/primary_logo_black.png
+Los Angeles Lakers,2026,7,TRUE,53,7,https://a.espncdn.com/i/teamlogos/nba/500/lal.png,https://a.espncdn.com/guid/2876e98b-b9bc-2920-4319-46e6943f8be4/logos/primary_logo_black.png
+New York Knicks,2026,5,TRUE,53,6,https://a.espncdn.com/i/teamlogos/nba/500/ny.png,https://a.espncdn.com/guid/61719eb2-11c3-4e3d-90c3-0a1319fd850b/logos/primary_logo_black.png
+Denver Nuggets,2026,5,TRUE,54,5,https://a.espncdn.com/i/teamlogos/nba/500/den.png,https://a.espncdn.com/guid/c4aceb39-0eb9-a30b-1120-9cb5b12b677a/logos/primary_logo_black.png
+Boston Celtics,2026,24,TRUE,56,4,https://a.espncdn.com/i/teamlogos/nba/500/bos.png,https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png
+Detroit Pistons,2026,2,TRUE,60,3,https://a.espncdn.com/i/teamlogos/nba/500/det.png,https://a.espncdn.com/guid/4e096981-dc02-51d0-3dcd-2468fcc1e22d/logos/primary_logo_black.png
+San Antonio Spurs,2026,1,TRUE,62,2,https://a.espncdn.com/i/teamlogos/nba/500/sa.png,https://a.espncdn.com/guid/8aef8547-32f5-0943-a1de-e734567674cc/logos/primary_logo_black.png
+Oklahoma City Thunder,2026,4,TRUE,64,1,https://a.espncdn.com/i/teamlogos/nba/500/okc.png,https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png
